@@ -1,9 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranay Bhamidipati</h1> 
-<h3 align="center">I have obtained Master's degree in Cybersecurity along with a Graduate Certificate in Cloud Engineering from the University of Maryland, College Park. I have developed keen interest in Cybersecurity and Ethical hacking and spend most of the time enhancing my skills and learning new skillsets in this domain. I am familiar with C/C++ and Python programming languages and like to spend most of my time exploring and improving my Ethical hacking skills on tryhackme.com and various other platforms where I can learn.</h3>
+<h3 align="center">I'm a recent Cybersecurity graduate from the University of Maryland, College Park, with a Graduate Certificate in Cloud Engineering. I’m passionate about ethical hacking, threat detection, and cloud security, and I actively hone my skills on platforms like TryHackMe. Proficient in Python and C/C++, I have hands-on experience with tools like Wireshark, Metasploit, Snort, and Splunk. I hold industry-recognized certifications including BTL1, CEH v12, CompTIA Security+, EJPTv2, Microsoft AZ-900, SC-900, and (ISC)² Certified in Cybersecurity, which reflect my commitment to continuous learning and real-world security excellence.
+</h3>
 
-- 🌱 I’m currently engaged in **Cybersecurity and Ethical hacking courses**
+- 🌱 I’m currently engaged in **Cybersecurity and Ethical hacking courses and certifications**
 
 - 📫 How to reach me **pranzvb@gmail.com**
 
