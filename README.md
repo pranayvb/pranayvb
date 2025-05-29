@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranay Bhamidipati</h1> 
-<h3 align="center">I am currently pursuing a Master's degree in Cybersecurity along with a Graduate Certificate in Cloud Engineering at the University of Maryland, College Park. I have developed keen interest in Cybersecurity and Ethical hacking and spend most of the time enhancing my skills and learning new skillsets in this domain. I am familiar with C/C++ and Python programming languages and like to spend most of my time exploring and improving my Ethical hacking skills on tryhackme.com and various other platforms where I can learn.</h3>
+<h3 align="center">I have obtained Master's degree in Cybersecurity along with a Graduate Certificate in Cloud Engineering from the University of Maryland, College Park. I have developed keen interest in Cybersecurity and Ethical hacking and spend most of the time enhancing my skills and learning new skillsets in this domain. I am familiar with C/C++ and Python programming languages and like to spend most of my time exploring and improving my Ethical hacking skills on tryhackme.com and various other platforms where I can learn.</h3>
 
 - 🌱 I’m currently engaged in **Cybersecurity and Ethical hacking courses**
 
