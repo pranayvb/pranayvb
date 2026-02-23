@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranay Bhamidipati</h1> 
-<h3 align="center">I'm a recent Cybersecurity graduate from the University of Maryland, College Park, with a Graduate Certificate in Cloud Engineering. I’m passionate about ethical hacking, threat detection, and cloud security, and I actively hone my skills on platforms like TryHackMe. Proficient in Python and C/C++, I have hands-on experience with tools like Wireshark, Metasploit, Snort, and Splunk. I hold industry-recognized certifications including BTL1, CEH v12, CompTIA Security+, EJPTv2, Microsoft AZ-900, SC-900, and (ISC)² Certified in Cybersecurity, which reflect my commitment to continuous learning and real-world security excellence.
+<h3 align="center">Dedicated Security Operations Center and Cloud Security professional and recent University of Maryland Master's in Cybersecurity graduate. Certified in BTL1, CEH v12, CompTIA Security+, EJPTv2, Microsoft AZ-900, SC-900, and (ISC)² Certified in Cybersecurity. I possess a strong foundation in SIEM analysis, network monitoring, and endpoint protection. I am committed to proactive defense and continuous learning to strengthen organizational security postures within dynamic, high-risk environments.
 </h3>
 
 - 🌱 I’m currently engaged in **Cybersecurity and Ethical hacking courses and certifications**
