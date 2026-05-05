@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranay Bhamidipati</h1> 
-<h3 align="center">Dedicated Security Operations Center and Cloud Security professional and recent University of Maryland Master's in Cybersecurity graduate. Certified in BTL1, CEH v12, CompTIA Security+, EJPTv2, Microsoft AZ-900, SC-900, and (ISC)² Certified in Cybersecurity. I possess a strong foundation in SIEM analysis, network monitoring, and endpoint protection. I am committed to proactive defense and continuous learning to strengthen organizational security postures within dynamic, high-risk environments.
+<h3 align="center">Dedicated Cybersecurity professional and recent University of Maryland, College Park, USA Master's in Cybersecurity graduate. Certified in BTL1, CEH v12, CompTIA Security+, EJPTv2, Microsoft AZ-900, SC-900, and (ISC)² Certified in Cybersecurity. I possess a strong foundation in SIEM analysis, network monitoring, and endpoint protection. I am committed to proactive defense and continuous learning to strengthen organizational security postures within dynamic, high-risk environments.
 </h3>
 
 - 🌱 I’m currently engaged in **Cybersecurity and Ethical hacking courses and certifications**
